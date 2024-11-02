@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejiceahe.github.io/CVD/sitemap_index.txt
+Sitemap: https://ejiceahe.github.io/OQI/sitemap_index.txt
+Sitemap: https://ejiceahe.github.io/eCR/sitemap_index.txt
+Sitemap: https://ejiceahe.github.io/iXd/sitemap_index.txt
